@@ -52,6 +52,15 @@
 #### 36. [LOOP] 2020-02-16-[Hierarchical Multi-Process Fusion for Visual Place Recognition](https://arxiv.org/pdf/2002.03895.pdf)
 #### 37. [2D LSLAM] 2020-02-21-[GP-SLAM: laser-based SLAM approach based on regionalized Gaussian process map reconstruction](https://sci-hub.tw/https://doi.org/10.1007/s10514-020-09906-z)
 #### 38. [RGBD SLAM] 2020-02-21-[Accurate and Robust RGB-D Dense Mapping with Inertial Fusion and Deformation-Graph Optimization](https://ieeexplore.ieee.org/abstract/document/8995400/authors#authors)
+#### 39. [VSLAM] 2020-03-02-[Dynamic SLAM: The Need For Speed](https://arxiv.org/pdf/2002.08584.pdf)feature-based, model-free, object-aware dynamic SLAM algorithm that exploits semantic segmentation to allow estimation of motion of rigid objects in a scene without the need to estimate the object poses or have any prior knowledge of their 3D models.
+#### 40. [VSLAM] 2020-03-04-[Monocular Direct Sparse Localization in a Prior 3D Surfel Map](https://arxiv.org/pdf/2002.09923.pdf) tracking the pose of a monocular camera in a prior surfel map.
+#### 41. [Semantic slam] 2020-03-04-[Comparing View-Based and Map-Based Semantic Labelling in Real-Time SLAM](https://arxiv.org/pdf/2002.10342.pdf) 
+#### 42. [Math] 2020-03-04-[Least Squares Optimization: from Theory to Practice](https://arxiv.org/pdf/2002.11051.pdf) a unified methodology to design and develop efficient Least-Squares Optimization algorithms, focusing on the structures and patterns of each specific domain.[code](https://github.com/srrg-sapienza/srrg2_solver)
+#### 43. [RGBD] 2020-03-04-[Perception in the Dark—Development of a ToF Visual Inertial Odometry System](https://www.mdpi.com/1424-8220/20/5/1263)  [code](https://github.com/HKPolyU-UAV/TOF-VIO)
+#### 44. [Event Camera] 2020-03-04-[Robust Feature Tracking in DVS Event Stream using Bezier Mapping](http://openaccess.thecvf.com/content_WACV_2020/papers/Seok_Robust_Feature_Tracking_in_DVS_Event_Stream_using_Bezier_Mapping_WACV_2020_paper.pdf) 
+#### 45. [Deep SLAM] 2020-03-05-[Self-Supervised Deep Pose Corrections for Robust Visual Odometry](https://arxiv.org/pdf/2002.12339.pdf) uses data-driven learning to regress pose corrections that account for systematic errors due to violations of modelling assumptions. [code](https://github.com/utiasSTARS/ss-dpc-net)
+#### 46. [Doctor thesis] 2020-03-05-[Custom hardware architectures for embedded high-performance and low-power SLAM](https://spiral.imperial.ac.uk/bitstream/10044/1/76491/1/Boikos-K-2019-PhD-Thesis.pdf)
+#### 47. [VSLAM] 2020-03-05-[Visual Camera Re-Localization from RGB and RGB-D Images Using DSAC](https://arxiv.org/pdf/2002.12324.pdf)
 
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
