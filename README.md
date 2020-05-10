@@ -1,7 +1,7 @@
 
 # Recent_SLAM_Research_2020
 【回馈社区】跟踪SLAM前沿动态[2019](https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM_Research_2019.md), [2018版](https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM_Research_2018.md) .去年大概收录了500篇关于SLAM的论文，因为本人在企业重点研究的是VSLAM以及多传感器融合，所以并没有把全部论文精读，难免有漏的或者差的。今年重点是求精以及做好分类，继续做好本圈儿的服务工作。
-
+欢迎在Issues里发布招聘信息。
 ### ------------ ICRA 2020 
 ### ------------ ICRA 2020 终止线 ----------
 ### ------------ CVPR 2020 
@@ -61,10 +61,57 @@
 #### 45. [Deep SLAM] 2020-03-05-[Self-Supervised Deep Pose Corrections for Robust Visual Odometry](https://arxiv.org/pdf/2002.12339.pdf) uses data-driven learning to regress pose corrections that account for systematic errors due to violations of modelling assumptions. [code](https://github.com/utiasSTARS/ss-dpc-net)
 #### 46. [Doctor thesis] 2020-03-05-[Custom hardware architectures for embedded high-performance and low-power SLAM](https://spiral.imperial.ac.uk/bitstream/10044/1/76491/1/Boikos-K-2019-PhD-Thesis.pdf)
 #### 47. [VSLAM] 2020-03-05-[Visual Camera Re-Localization from RGB and RGB-D Images Using DSAC](https://arxiv.org/pdf/2002.12324.pdf)
+#### 48. [Deep SLAM] 2020-03-09-[D3VO: Deep Depth, Deep Pose and Deep Uncertainty for Monocular Visual Odometry](https://arxiv.org/pdf/2003.01060.pdf)
+#### 49. [VSLAM] 2020-03-09-[Closed-Loop Benchmarking of Stereo Visual-Inertial SLAM Systems: Understanding the Impact of Drift and Latency on Tracking Accuracy](https://arxiv.org/pdf/2003.01317.pdf)
+#### 50. [Deep SLAM] 2020-03-09-[MVP: Unified Motion and Visual Self-Supervised Learning for Large-Scale Robotic Navigation](https://arxiv.org/pdf/2003.00667.pdf)
+#### 51. [LOOP] 2020-03-09-[Augmenting Visual Place Recognition with Structural Cues](https://arxiv.org/pdf/2003.00278.pdf)
+#### 52. [VSLAM] 2020-03-09-[Robust tightly coupled pose estimation based on monocular vision, inertia, and wheel speed](https://arxiv.org/pdf/2003.01496.pdf)
+#### 53. [VSLAM] 2020-03-09-[Plug-and-Play SLAM: A Unified SLAM Architecture for Modularity and Ease of Use](https://arxiv.org/pdf/2003.00754.pdf) [code](https://github.com/srrg-sapienza/srrg2_slam_interfaces)
+#### 54. [VSLAM] 2020-03-09-[MiniVO: Minimalistic Range Enhanced Monocular System for Scale Correct Pose Estimation](https://www.researchgate.net/publication/339629457_MiniVO_Minimalistic_Range_Enhanced_Monocular_System_for_Scale_Correct_Pose_Estimation) [code](https://gitlab.com/Giubilato/alti-cam-calib)
+#### 55. [VSLAM] 2020-03-09-[Robust Visual-Inertial Integrated Navigation System  Aided by Online Sensor Model Adaption for  Autonomous Ground Vehicles in Urban Areas](https://www.preprints.org/manuscript/202003.0018/v1)
+#### 56. [VSLAM] 2020-03-16-[StereoNeuroBayesSLAM: A Neurobiologically Inspired Stereo Visual SLAM System Based on Direct Sparse Method](https://arxiv.org/pdf/2003.03091.pdf)
+#### 57. [Math] 2020-03-16-[Bundle Adjustment on a Graph Processor](https://arxiv.org/pdf/2003.03134.pdf)
+#### 58. [VSLAM] 2020-03-16-[Voxel Map for Visual SLAM](https://arxiv.org/pdf/2003.02247.pdf)
+#### 59. [LSLAM] 2020-03-16-[LiDAR Inertial Odometry Aided Robust LiDAR Localization System in Changing City Scenes](https://songshiyu01.github.io/pdf/LIO_W.Ding_S.Song_ICRA2020.pdf)
+#### 60. [VSLAM] 2020-03-16-[Redesigning SLAM for Arbitrary Multi-Camera Systems](https://arxiv.org/pdf/2003.02014.pdf)
+#### 61. [VSLAM] 2020-03-19-[DymSLAM:4D Dynamic Scene Reconstruction Based on Geometrical Motion Segmentation](https://arxiv.org/pdf/2003.04569.pdf)
+#### 62. [LSALM] 2020-03-19-[Tightly-coupled Fusion of Global Positional Measurements in Optimization-based Visual-Inertial Odometry](https://arxiv.org/pdf/2003.04159.pdf)
+#### 63. [VSLAM] 2020-03-19-[FlowFusion: Dynamic Dense RGB-D SLAM Based on Optical Flow](https://arxiv.org/pdf/2003.05102.pdf)
+#### 64. [VSLAM] 2020-03-19-[Inertial-Only Optimization for Visual-Inertial Initialization](https://arxiv.org/pdf/2003.05766.pdf)
+#### 65. [VSLAM] 2020-03-19-[Extrinsic Calibration of Multiple RGB-D Cameras Based on Descriptor-based Patterns](https://arxiv.org/pdf/1807.07856v2.pdf)
+#### 66. [VSLAM] 2020-03-19-[SD-VIS: A Fast and Accurate Semi-Direct Monocular Visual-Inertial Simultaneous Localization and Mapping (SLAM)](https://www.mdpi.com/1424-8220/20/5/1511/htm)
+#### 67. [Calibration] 2020-03-19-[A fast calibration approach for onboard LiDAR-camera systems](https://journals.sagepub.com/doi/pdf/10.1177/1729881420909606)
+#### 68. [Edge SLAM] 2020-03-24-[Robust Monocular Edge Visual Odometry through Coarse-to-Fine Data Association](https://www.researchgate.net/publication/336056167_Robust_Monocular_Edge_Visual_Odometry_through_Coarse-to-Fine_Data_Association?_esc=publicationCoverPdf&el=1_x_3&enrichId=rgreq-82bc69ebf992513f26edb9e73f9e23eb-XXX&enrichSource=Y292ZXJQYWdlOzMzNjA1NjE2NztBUzo4Njk4NTc1Mjg2NTU4NzJAMTU4NDQwMTYwNDEyNQ%3D%3D)
+#### 69. [Math] 2020-03-24-[Learning 2D–3D Correspondences To Solve The Blind Perspective-n-Point Problem](https://arxiv.org/pdf/2003.06752.pdf)
+#### 70. [LSLAM] 2020-03-24-[An Experimental Evaluation of Robustness and Precision for Long-term LiDAR-based Localization in Highly Changing Environments](https://arxiv.org/pdf/2003.07726.pdf)
+#### 71. [AR] 2020-03-24-[A novel augmented reality framework based on monocular semi-dense simultaneous localization and mapping](https://sci-hub.tw/https://doi.org/10.1002/cav.1922)
+#### 72. [VSLAM] 2020-04-03-[OmniSLAM: Omnidirectional Localization and Dense Mapping for Wide-baseline Multi-camera Systems](https://arxiv.org/pdf/2003.08056.pdf)
+#### 73. [VSLAM] 2020-04-03-[Monocular Visual–Inertial SLAM Algorithm Combined with Wheel Speed Anomaly Detection](https://arxiv.org/pdf/2003.09901.pdf)
+#### 74. [VSLAM] 2020-04-07-[Removing Dynamic Objects for Static Scene Reconstruction using Light Fields](https://arxiv.org/pdf/2003.11076.pdf)
+#### 75. [VSLAM] 2020-04-07-[Multi-camera visual SLAM for off-road navigation](https://www.sciencedirect.com/science/article/pii/S0921889019308711)
+#### 76. [VSLAM] 2020-04-07-[Long-Term Loop Closure Detection through Visual-Spatial Information Preserving Multi-Order Graph Matching](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-GaoP.6907.pdf)
+#### 77. [VSLAM] 2020-04-13-[Coupling of localization and depth data for mapping using Intel RealSense T265 and D435i cameras](https://arxiv.org/pdf/2004.00269.pdf)
+#### 78. [Calibration] 2020-04-13-[On-the-Fly Camera and Lidar Calibration](https://www.mdpi.com/2072-4292/12/7/1137/pdf)
+#### 79. [Event Camera] 2020-04-13-[Single Image Optical Flow Estimation with an Event Camera](https://arxiv.org/pdf/2004.00347.pdf)
+#### 80. [VSLAM] 2020-04-13-[Monocular Camera Localization in Prior LiDAR Maps with 2D-3D Line Correspondences](https://arxiv.org/pdf/2004.00740.pdf) [code](https://github.com/levenberg/2D-3D-pose-tracking)
+#### 81. [Fusion] 2020-04-13-[Scene-Aware Error Modeling of LiDAR/Visual Odometry for Fusion-based Vehicle Localization](https://arxiv.org/pdf/2003.13109.pdf)
+#### 82. [Dataset] 2020-04-13-[TartanAir: A Dataset to Push the Limits of Visual SLAM](https://arxiv.org/pdf/2003.14338.pdf)
+#### 83. [VSLAM] 2020-04-13-[ClusterVO: Clustering Moving Instances and Estimating Visual Odometry for Self and Surroundings](https://arxiv.org/pdf/2003.12980.pdf)
+#### 84. [DeepSLAM] 2020-04-13-[DeepSLAM: A Robust Monocular SLAM System with Unsupervised Deep Learning](https://ieeexplore.ieee.org/abstract/document/9047170)
+#### 85. [Fusion] 2020-04-13-[Tightly-coupled Fusion of Global Positional Measurements in Optimization-based Visual-Inertial Odometry](https://arxiv.org/pdf/2003.04159.pdf)
+#### 86. [GPU] 2020-04-13-[Faster than FAST: GPU-Accelerated Frontend for High-Speed VIO](https://arxiv.org/pdf/2003.13493.pdf) [code](https://github.com/uzh-rpg/vilib)
+#### 87. [Descriptor] 2020-04-27-[BEBLID: Boosted Efficient Binary Local Image Descriptor](https://sci-hub.tw/https://doi.org/10.1016/j.patrec.2020.04.005) [code](https://github.com/iago-suarez/BEBLID)
+#### 88. [Doctor thesis] 2020-04-27-[Robust Visual SLAM in Challenging Environments with low-texture and Dynamic Illumination](https://riuma.uma.es/xmlui/bitstream/handle/10630/19479/TD_GOMEZ_OJEDA_Ruben.pdf?sequence=1&isAllowed=y)
+#### 89. [LSLAM] 2020-04-27-[CAE-LO: LiDAR Odometry Leveraging Fully Unsupervised Convolutional Auto-Encoder for Interest Point Detection and Feature Description](https://arxiv.org/pdf/2001.01354.pdf) [code](https://github.com/SRainGit/CAE-LO)
+#### 90. [VSLAM] 2020-04-27-[Object-oriented SLAM using Quadrics and Symmetry Properties for Indoor Environments](https://arxiv.org/pdf/2004.05303.pdf)
+#### 91. [VSLAM] 2020-04-27-[Online Initialization and Extrinsic Spatial-Temporal Calibration for Monocular Visual-Inertial Odometry](https://arxiv.org/pdf/2004.05534.pdf)
+#### 92. [VSLAM] 2020-04-27-[Latency Compensated Visual-Inertial Odometry for Agile Autonomous Flight](https://www.researchgate.net/publication/340650710_Latency_Compensated_Visual-Inertial_Odometry_for_Agile_Autonomous_Flight)
+#### 93. [Descriptor] 2020-04-27-[Visual Descriptor Learning from Monocular Video](https://arxiv.org/pdf/2004.07007.pdf)
 
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
 #### 2. [laser reconstruction] 2020-02-14-[Real-Time 3D Reconstruction of Thin Surface Based on Laser Line Scanner](https://www.researchgate.net/publication/338707435_Real-Time_3D_Reconstruction_of_Thin_Surface_Based_on_Laser_Line_Scanner) 
+#### 3. [Deep Reconstruction] 2020-04-03-[Atlas: End-to-End 3D Scene Reconstruction from Posed Images](https://arxiv.org/pdf/2003.10432.pdf) from magicleap
 
 ### Path Planning
 #### 1. [UAV] 2020-01-14-[Robust Real-time UAV Replanning Using Guided Gradient-based Optimization and Topological Paths](https://arxiv.org/pdf/1912.12644.pdf)Replanning method based on GTO.[code](https://github.com/HKUST-Aerial-Robotics/Fast-Planner)
