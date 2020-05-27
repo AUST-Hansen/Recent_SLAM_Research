@@ -107,16 +107,33 @@
 #### 91. [VSLAM] 2020-04-27-[Online Initialization and Extrinsic Spatial-Temporal Calibration for Monocular Visual-Inertial Odometry](https://arxiv.org/pdf/2004.05534.pdf)
 #### 92. [VSLAM] 2020-04-27-[Latency Compensated Visual-Inertial Odometry for Agile Autonomous Flight](https://www.researchgate.net/publication/340650710_Latency_Compensated_Visual-Inertial_Odometry_for_Agile_Autonomous_Flight)
 #### 93. [Descriptor] 2020-04-27-[Visual Descriptor Learning from Monocular Video](https://arxiv.org/pdf/2004.07007.pdf)
+#### 94. [radar slam] 2020-05-19-[RadarSLAM: Radar based Large-Scale SLAM in All Weathers](https://arxiv.org/pdf/2005.02198.pdf)
+#### 95. [lidar slam] 2020-05-19-[SROM: Simple Real-time Odometry and Mapping using LiDAR data for Autonomous Vehicles](https://arxiv.org/pdf/2005.02042.pdf)
+#### 96. [MSCKF] 2020-05-19-[Improving S-MSCKF with Variational Bayesian Adaptive Nonlinear Filter](https://ieeexplore.ieee.org/abstract/document/9076179/authors#authors)
+#### 97. [Fusion] 2020-05-19-[Robust IMU/GPS/VO integration for vehicle navigation in GNSS degraded urban areas](https://ieeexplore.ieee.org/abstract/document/9075286/authors#authors)
+#### 98. [Fusion] 2020-05-19-[Tightly-coupled Vision-Gyro- Wheel Odometry for Ground Vehicle with Online Extrinsic Calibration](https://ieeexplore.ieee.org/abstract/document/9081840/authors#authors)
+#### 99. [I-LOAM] 2020-05-19-[I-LOAM: Intensity Enhanced LiDAR Odometry and Mapping](https://irap.kaist.ac.kr/publications/yspark-2020-ur.pdf)
+#### 100. [VSLAM] 2020-05-25-[EAO-SLAM: Monocular Semi-Dense Object SLAM Based on Ensemble Data Association](https://arxiv.org/pdf/2004.12730.pdf)
+#### 101. [Mono slam] 2020-05-25-[GPO: Global Plane Optimization for Fast and Accurate Monocular SLAM Initialization](https://arxiv.org/pdf/2004.12051.pdf)
+#### 102. [Life-long] 2020-05-25-[Mapillary Street-Level Sequences: A Dataset for Lifelong Place Recognition](http://www2.compute.dtu.dk/~sohau/papers/cvpr2020/warburgCVPR2020.pdf)
+#### 103. [Feature] 2020-05-25-[Learning Feature Descriptors using Camera Pose Supervision](https://arxiv.org/pdf/2004.13324.pdf)
+#### 104. [Line and point] 2020-05-25-[Leveraging Planar Regularities for Point Line Visual-Inertial Odometry](https://arxiv.org/pdf/2004.11969.pdf)
+#### 105. [Radar slam] 2020-05-25-[See Through Smoke: Robust Indoor Mapping with Low-cost mmWave Radar](http://www.cs.ox.ac.uk/files/11899/_MobiSys_20__milliMap.pdf)
+#### 106. [lidar] 2020-05-25-[Evaluating the Limits of a LiDAR for an Autonomous Driving Localization](https://ieeexplore.ieee.org/abstract/document/9059023)
+
 
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
 #### 2. [laser reconstruction] 2020-02-14-[Real-Time 3D Reconstruction of Thin Surface Based on Laser Line Scanner](https://www.researchgate.net/publication/338707435_Real-Time_3D_Reconstruction_of_Thin_Surface_Based_on_Laser_Line_Scanner) 
 #### 3. [Deep Reconstruction] 2020-04-03-[Atlas: End-to-End 3D Scene Reconstruction from Posed Images](https://arxiv.org/pdf/2003.10432.pdf) from magicleap
-
+#### 4. [User-guided] 2020-05-19-[User-guided 3D reconstruction using multi-view stereo](https://dl.acm.org/doi/fullHtml/10.1145/3384382.3384530)
 ### Path Planning
 #### 1. [UAV] 2020-01-14-[Robust Real-time UAV Replanning Using Guided Gradient-based Optimization and Topological Paths](https://arxiv.org/pdf/1912.12644.pdf)Replanning method based on GTO.[code](https://github.com/HKUST-Aerial-Robotics/Fast-Planner)
 #### 2. [Auto exploration] 2020-01-14-[3D Exploration and Navigation with Optimal-RRT Planners for Ground Robots in Indoor Incidents](https://www.researchgate.net/publication/338367746_3D_Exploration_and_Navigation_with_Optimal-RRT_Planners_for_Ground_Robots_in_Indoor_Incidents)
 #### 3. [End-to-end navi] 2020-02-20-[BADGR: An Autonomous Self-Supervised Learning-Based Navigation System](https://arxiv.org/pdf/2002.05700.pdf) an end-to-end learning-based mobile robot navigation system. [code](https://sites.google.com/view/badgr)
+#### 4. [End-to-End] 2020-05-19-[Probabilistic End-to-End Vehicle Navigation in Complex Dynamic Environments with Multimodal Sensor Fusion](https://arxiv.org/pdf/2005.01935.pdf)
+#### 5. [Vision net] 2020-05-25-[VTGNet: A Vision-based Trajectory Generation Network for Autonomous Vehicles in Urban Environments](https://arxiv.org/pdf/2004.12591.pdf)
+
 
 ### Others.
 
